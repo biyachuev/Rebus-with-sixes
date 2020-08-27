@@ -1,2 +1,11 @@
 # Rebus-with-sixes
-Solution for funny rebus
+
+Solve the rebus
+       ***
+       ***
+       ---
+      *6**
+     **66
+     6*6
+     -----
+     *****
